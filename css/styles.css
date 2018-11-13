@@ -182,6 +182,7 @@ body button:hover, body button:focus{
 	padding: 0 1rem;
 	border-left: .15rem solid #F2F2F2;
 	width: 20%;
+	float: left;
 }
 .product_section .product_box .pricebox .smalltext{
 	font-size: 1rem;
